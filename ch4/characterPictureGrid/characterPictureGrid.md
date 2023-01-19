@@ -15,7 +15,7 @@ Below are the objectives:
          ['O', 'O', 'O', 'O', '.', '.'],
          ['.', 'O', 'O', '.', '.', '.'],
          ['.', '.', '.', '.', '.', '.']]
--  Think of grid[x][y] as being the charactor at the x- and y-coordinates. 
+-  Think of grid[x][y] as being the character at the x- and y-coordinates. 
   - (0, 0) will be upper-left corner, the x-coordinates increase going right and y- increase doing down
 -  Use the previous grid value and write code that uses is to print the image:
 
