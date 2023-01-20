@@ -1,4 +1,13 @@
 # Add to Inventory Project
-# write a addToInventory(inventory, addedItems) function
-# addedItems parameter is a list of picked up loot
-# addToInventory() function should return an updated inventory
+
+# write a addToInventory(inventory, addedItems) function below
+
+
+
+
+
+# include: 1). inv{} dictionary, 2). dragonLoot[] list, 3). run that dictionary and list through function above and assign as 'inv'
+
+
+
+# use displayInventory() from other ch05 project with 'inv' to print user friendly output.

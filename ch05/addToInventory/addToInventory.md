@@ -1,4 +1,4 @@
-# fantasyGameInventory
+# addToInventory
 
 ##  This is my chapter 5 practice project "Automate the Boring Stuff With Python" 
 
