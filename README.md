@@ -10,3 +10,12 @@ I hope that this will help keep my collection similar python projects together w
 Practice Projects will be found in their respective chapter numbers.
 
 I plan to keep this repo public for community viewing and contributions.
+
+## Contents
+- ch03
+  - Collatz Sequence
+- ch04
+  - Character Picture Grid 
+  - Comma Code
+- ch05
+  - Fantasy Game Inventory (in progress)
