@@ -19,3 +19,4 @@ I plan to keep this repo public for community viewing and contributions.
   - Comma Code
 - ch05
   - Fantasy Game Inventory (in progress)
+  - Add to Inventory (in progress)
