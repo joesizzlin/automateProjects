@@ -11,7 +11,6 @@ def displayInventory(stuff):
 
 # write a addToInventory(inventory, addedItems) function below
 def addToInventory(inventory, addedItems):              # define addToInventory function                                 
-    #print(inventory, addedItems)                       # print to test assignment, will remove later
     for item in addedItems:                             # iterates each item in the `addedItems` list
         inventory[item] = inventory.get(item,0) + 1     # `.get()` to check if the item is already in `inventory` dictionary
                                                         # it will then add the `item` value by 1, with 0 being default start if item is not already in inventory 
