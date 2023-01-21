@@ -18,5 +18,5 @@ I plan to keep this repo public for community viewing and contributions.
   - Character Picture Grid 
   - Comma Code
 - ch05
-  - Fantasy Game Inventory (in progress)
-  - Add to Inventory (in progress)
+  - Fantasy Game Inventory
+  - Add to Inventory
