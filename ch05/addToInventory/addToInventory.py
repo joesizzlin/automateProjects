@@ -12,8 +12,10 @@ def displayInventory(stuff):
 # write a addToInventory(inventory, addedItems) function below
 def addToInventory(inventory, addedItems):              # define addToInventory function                                 
     for item in addedItems:                             # iterates each item in the `addedItems` list
+        print('Looted ' + item)                         # prints each looted item
         inventory[item] = inventory.get(item,0) + 1     # `.get()` to check if the item is already in `inventory` dictionary
-                                                        # it will then add the `item` value by 1, with 0 being default start if item is not already in inventory 
+                                                        # it will then add the `item` value by 1, with 0 being default start if item is not already in inventory
+    print()                                             # prints blank line
     return(inventory)                                   # returns the updated `inventory` dictionary
 
 # include: 1). inv{} dictionary, 2). dragonLoot[] list, 3). run that dictionary and list through function above and assign as 'inv'
